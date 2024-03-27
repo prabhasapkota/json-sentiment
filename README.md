@@ -15,62 +15,57 @@ This exercise illustrates how to access web-hosted APIs, get back a response in 
 ### TO DO THINGS:
 Create and activate a virtual environment. Run the following commands to install these into your virtual environment:
 
-python -m pip install requests
-python -m pip install spacy
-python -m pip install spacytextblob
+* python -m pip install requests
+* python -m pip install spacy
+* python -m pip install spacytextblob
 
 ### Prerequisites:
-1.Before starting the project, try all these imports FIRST
-2.Address any errors you get running this code cell 
-3.by installing the necessary packages into your active Python environment.
-4.Try to resolve issues using your materials and the web.
-5.If that doesn't work, ask for help in the discussion forums.
-6.You can't complete the exercises until you import these - start early! 
-7.We also import json and pickle (included in the Python Standard Library).
+1. Before starting the project, try all these imports FIRST
+2. Address any errors you get running this code cell 
+3. by installing the necessary packages into your active Python environment.
+4. Try to resolve issues using your materials and the web.
+5. If that doesn't work, ask for help in the discussion forums.
+6. You can't complete the exercises until you import these - start early! 
+7. We also import json and pickle (included in the Python Standard Library).
 
 Add the following code to the first Python code cell. Run the cell. 
-import json
-import pickle
 
-import requests
-import spacy
-from spacytextblob.spacytextblob import SpacyTextBlob
+* import json
+* import pickle
 
-print('All prereqs installed.')
-!pip list
+* import requests
+* import spacy
+* from spacytextblob.spacytextblob import SpacyTextBlob
+
+* print('All prereqs installed.')
+* !pip list
 
 If you just see the print statement - congratulations! You have successfully installed everything and are ready to practice applying these powerful tools!
 
 #### Task 2: Open Notebook and Complete Tasks 
 
-1.On your machine, open the Jupyter Notebook for editing. 
-
-2.Required: In your Markdown introduction, add a viewable, clickable link to your GitHub repo after your name. Build your brand and make your Markdown introduction clear and professional. 
-
-3.Required: Use Markdown headings  (e.g. Question 1) to clearly show your content by each question number. 
-
-4.Complete the first task.
-
-5.Execute the notebook. Commit and push to GitHub. Verify your notebook appears correctly.
-
-6.Complete the second task.
-
-7.Execute the notebook. Commit and push to GitHub. Verify your notebook appears correctly.
-
-8.Work this way until all tasks have been completed. 
+1. On your machine, open the Jupyter Notebook for editing. 
+2. Required: In your Markdown introduction, add a viewable, clickable link to your GitHub repo after your name. Build your brand and make your Markdown introduction clear and professional. 
+3. Required: Use Markdown headings  (e.g. Question 1) to clearly show your content by each question number. 
+4. Complete the first task.
+5. Execute the notebook. Commit and push to GitHub. Verify your notebook appears correctly.
+6. Complete the second task.
+7. Execute the notebook. Commit and push to GitHub. Verify your notebook appears correctly.
+8. Work this way until all tasks have been completed. 
 
 #### Task 3: Export to HTML and Finalize Repo
-1.Execute each notebook.
-2.After executing, export each notebook to HTML.
-3.Commit and push your HTML files to your GitHub repo along with the executed notebooks. 
-4.Verify you have a professional README.md that introduces your GitHub repository and provides helpful information about your project.
+
+1. Execute each notebook.
+2. After executing, export each notebook to HTML.
+3. Commit and push your HTML files to your GitHub repo along with the executed notebooks. 
+4. Verify you have a professional README.md that introduces your GitHub repository and provides helpful information about your project.
 
 #### Requirements
 
-1.Markdown introduction with name and clickable link is required.
-2.Markdown Section Headings for each Question are required. 
-3.Execute your code before exporting HTML and pushing notebooks. (See FAQ for help.)  
-4.Unexecuted code is not eligible for credit.
+1. Markdown introduction with name and clickable link is required.
+2. Markdown Section Headings for each Question are required. 
+3. Execute your code before exporting HTML and pushing notebooks. (See FAQ for help.)
+4. Unexecuted code is not eligible for credit.
 
 ## Rubric
 
