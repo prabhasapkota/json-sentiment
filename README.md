@@ -19,17 +19,16 @@ python -m pip install requests
 python -m pip install spacy
 python -m pip install spacytextblob
 
-### Check in everything is set up:
-Add the following code to the first Python code cell. Run the cell. 
-# Create and activate a Python virtual environment. 
-# Before starting the project, try all these imports FIRST
-# Address any errors you get running this code cell 
-# by installing the necessary packages into your active Python environment.
-# Try to resolve issues using your materials and the web.
-# If that doesn't work, ask for help in the discussion forums.
-# You can't complete the exercises until you import these - start early! 
-# We also import json and pickle (included in the Python Standard Library).
+### Prerequisites:
+1.Before starting the project, try all these imports FIRST
+2.Address any errors you get running this code cell 
+3.by installing the necessary packages into your active Python environment.
+4.Try to resolve issues using your materials and the web.
+5.If that doesn't work, ask for help in the discussion forums.
+6.You can't complete the exercises until you import these - start early! 
+7.We also import json and pickle (included in the Python Standard Library).
 
+Add the following code to the first Python code cell. Run the cell. 
 import json
 import pickle
 
@@ -43,13 +42,21 @@ print('All prereqs installed.')
 If you just see the print statement - congratulations! You have successfully installed everything and are ready to practice applying these powerful tools!
 
 #### Task 2: Open Notebook and Complete Tasks 
+
 1.On your machine, open the Jupyter Notebook for editing. 
+
 2.Required: In your Markdown introduction, add a viewable, clickable link to your GitHub repo after your name. Build your brand and make your Markdown introduction clear and professional. 
+
 3.Required: Use Markdown headings  (e.g. Question 1) to clearly show your content by each question number. 
+
 4.Complete the first task.
+
 5.Execute the notebook. Commit and push to GitHub. Verify your notebook appears correctly.
+
 6.Complete the second task.
+
 7.Execute the notebook. Commit and push to GitHub. Verify your notebook appears correctly.
+
 8.Work this way until all tasks have been completed. 
 
 #### Task 3: Export to HTML and Finalize Repo
